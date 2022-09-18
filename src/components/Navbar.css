@@ -1,0 +1,38 @@
+body{
+	--nav-gap:1rem;
+	--text-size:1rem;
+}
+
+.navbar{
+	
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding:0.5rem 1rem 0 0.5rem; 
+	background: transparent linear-gradient(90deg, #112949 0%, #000000 100%, #0E233F 100%) 0% 0% no-repeat padding-box;
+	box-shadow: -1px 1px 6px #00000029;
+	opacity: 1;
+
+}
+.navbar__left{
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+	gap:var(--nav-gap);
+}
+
+.navbar__left__text{
+	color: #F1F7F9;
+	font-size:calc(var(--text-size)*2);
+}
+
+.navbar__right{
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+	gap:var(--nav-gap);
+}
+.navbar__right__text{
+	color: #F2F2F2;
+	font-size:calc(var(--text-size) + 0.25rem);
+}

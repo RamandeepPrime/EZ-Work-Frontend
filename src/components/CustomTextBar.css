@@ -1,0 +1,22 @@
+.custom__text__bar{
+	color:#9CBDEB;
+	size:1rem;
+	display:flex;
+	/* margin:0 1rem 1rem 1rem; */
+}
+.input__bar{
+	margin:0.5rem 3rem 0.5rem 0;
+	width:321px;
+	height:37px;
+	display:flex;
+	align-items:center;
+}
+.custom__text__bar input,select{
+	background: #112949 0% 0% no-repeat padding-box;
+	border: 0.5px solid #E2E2E2;
+	border-radius: 5px;
+	width:calc(100% - 0.5rem);
+	height:100%;
+	padding:0 0.5rem;
+	color:#F1F7F9;
+}

@@ -1,0 +1,35 @@
+.main{
+
+	width: 100%;
+	height: 94.5vh;
+
+	object-fit: cover;
+	display:flex;
+	gap:1rem;
+	
+
+/* UI Properties */	
+
+	background:  url(../../public/assets/ai-operating-system-on-a-dark-blue-background-vector.png) 0% 0% no-repeat padding-box;
+	background-color: #132940;
+	color:#F1F7F9;
+}
+
+.main__left{
+	width: 720px;
+	min-width: 200px;
+	padding:0.5rem 0 0 0.5rem;
+	display:flex;
+	gap:10px;
+	flex-direction: column;
+}
+
+/* .main__right{
+	padding:0.5rem;
+	margin: 1rem 2rem 1rem 1rem;
+	background: rgba(9, 21, 38,0.75);
+	border-radius: 10px;
+	height: 322px;
+	width:100%;
+} */
+

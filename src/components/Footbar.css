@@ -1,0 +1,12 @@
+.footbar__icons{
+	display:flex;
+	width:calc(97vw - 1rem);
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	transition: all .2s ease-in-out;
+
+}
+.footbar__icons img:hover{
+	transform: scale(1.2);
+}
