@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/EZ-Work-Frontend/static/css/main.f945ad21.css",
-    "main.js": "/EZ-Work-Frontend/static/js/main.e212f609.js",
+    "main.css": "/EZ-Work-Frontend/static/css/main.14707886.css",
+    "main.js": "/EZ-Work-Frontend/static/js/main.40dad8bf.js",
     "static/media/ai-operating-system-on-a-dark-blue-background-vector.png": "/EZ-Work-Frontend/static/media/ai-operating-system-on-a-dark-blue-background-vector.cc4b2f07362c1f8f8767.png",
     "static/media/female-face-girl-posing-outdoors-in-natural-light_f0dboln (1).png": "/EZ-Work-Frontend/static/media/female-face-girl-posing-outdoors-in-natural-light_f0dboln (1).a5fa2a30b5516baab7f0.png",
     "static/media/logo.webp": "/EZ-Work-Frontend/static/media/logo.d9e01549949b9460c15c.webp",
     "index.html": "/EZ-Work-Frontend/index.html",
     "static/media/Icon material-edit.svg": "/EZ-Work-Frontend/static/media/Icon material-edit.1923a604d0f17225b344fb7d4ad92dc3.svg",
-    "main.f945ad21.css.map": "/EZ-Work-Frontend/static/css/main.f945ad21.css.map",
-    "main.e212f609.js.map": "/EZ-Work-Frontend/static/js/main.e212f609.js.map"
+    "main.14707886.css.map": "/EZ-Work-Frontend/static/css/main.14707886.css.map",
+    "main.40dad8bf.js.map": "/EZ-Work-Frontend/static/js/main.40dad8bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.f945ad21.css",
-    "static/js/main.e212f609.js"
+    "static/css/main.14707886.css",
+    "static/js/main.40dad8bf.js"
   ]
 }
