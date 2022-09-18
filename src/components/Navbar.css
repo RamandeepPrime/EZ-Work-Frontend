@@ -12,7 +12,6 @@ body{
 	background: transparent linear-gradient(90deg, #112949 0%, #000000 100%, #0E233F 100%) 0% 0% no-repeat padding-box;
 	box-shadow: -1px 1px 6px #00000029;
 	opacity: 1;
-	width: 100vw;
 
 }
 .navbar__left{
