@@ -4,6 +4,9 @@ import "./MainRight.css"
 import React,{useContext} from 'react'
 import States from '../Context/Context';
 import Footbar from './Footbar';
+import profile_pic from "../assets/female-face-girl-posing-outdoors-in-natural-light_f0dboln (1).png"
+import logo from "../assets/logo.webp"
+import icon from "../assets/Icon material-edit.svg"
 
 
 const MainRight = () => {
@@ -37,20 +40,20 @@ const MainRight = () => {
 				</div>
 				<div className={`main_container ${(width<1200)&&'flex-direction-column'} ${width<765 && 'mobile__main__right'}`}>
 					<div className={`profile_pic ${width<1200?'margin-auto mobile__profile_pic':''}`}>
-						{width>1200 && <img src={process.env.PUBLIC_URL + "assets/female-face-girl-posing-outdoors-in-natural-light_f0dboln (1).png"}
+						{width>1200 && <img src={profile_pic}
 							width="238px"
 							height="238px"
 						/>
 						}
 						{width<1200 &&
-						<img src={process.env.PUBLIC_URL + "assets/female-face-girl-posing-outdoors-in-natural-light_f0dboln (1).png"}
+						<img src={profile_pic}
 							width="162px"
 							height="162px"
 						/>
 						}
 						<div className={`edit ${width<1200 && 'mobile__edit'}`}>
 
-							<img src={process.env.PUBLIC_URL + "assets/Icon material-edit.svg"} />
+							<img src={icon} />
 						</div>
 					</div>
 					<div className={`information information-middle`}>
