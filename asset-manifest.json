@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EZ-Work-Frontend/static/css/main.efd57ebd.css",
+    "main.js": "/EZ-Work-Frontend/static/js/main.ac65c9b5.js",
+    "static/media/ai-operating-system-on-a-dark-blue-background-vector.png": "/EZ-Work-Frontend/static/media/ai-operating-system-on-a-dark-blue-background-vector.cc4b2f07362c1f8f8767.png",
+    "index.html": "/EZ-Work-Frontend/index.html",
+    "main.efd57ebd.css.map": "/EZ-Work-Frontend/static/css/main.efd57ebd.css.map",
+    "main.ac65c9b5.js.map": "/EZ-Work-Frontend/static/js/main.ac65c9b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efd57ebd.css",
+    "static/js/main.ac65c9b5.js"
+  ]
+}
