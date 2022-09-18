@@ -9,7 +9,8 @@ const Main = () => {
   const context = useContext(States);
   const {width, clicked} = context;
   return (
-    <div className='main'>
+    <div className={`main ${width<700?'mobile_main':''}`} >
+
       {(width>1000 || clicked) && <div className="main__left">
 
          <MainLeft/>
