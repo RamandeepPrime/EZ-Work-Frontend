@@ -56,7 +56,7 @@ const MainRight = () => {
 							<img src={icon} />
 						</div>
 					</div>
-					<div className={`information information-middle`}>
+					<div className={`information information-middle ${width<765 && 'mobile__information'}`}>
 
 
 						{Object.keys(info).map((key) => {

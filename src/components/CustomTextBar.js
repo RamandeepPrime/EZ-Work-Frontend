@@ -9,7 +9,7 @@ const CustomTextBar = ({ tag, placeholder}) => {
 		<div className='custom__text__bar'>
 			<label>
 				{tag}
-				<div className={`input__bar ${width>1200?'':'margin-auto information-middle'}`}>
+				<div className={`input__bar ${width>1200?'':'margin-auto information-middle mobike__input__bar'}`}>
 					<input type="text" name={tag}
 						placeholder={placeholder} />
 				</div>

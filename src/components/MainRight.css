@@ -129,3 +129,6 @@
 	border-radius: 10px;
 	padding-top:0.25rem;
 }
+.mobile__information{
+	gap: 0.5rem;
+}
