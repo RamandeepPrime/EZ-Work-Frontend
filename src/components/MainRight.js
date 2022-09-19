@@ -34,7 +34,7 @@ const MainRight = () => {
 	const numbers = ["Phone Number", "WhatsApp Number"]
 	return (
 		<>	
-			<div className="main__right__container">
+			<div className={`main__right__container ${(width<800) && 'mobile__main__right__container'}`}>
 				<div className="topbar pointer" onClick={onClick}>
 					&#8678; Profile Information 
 				</div>

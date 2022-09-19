@@ -27,7 +27,8 @@
 	background: rgba(9, 21, 38,0.75);
 	border-radius: 10px;
 	height: auto;
-	width:calc( 96% - 0.5rem);  
+	/* width:calc( 96% - 0.5rem);   */
+	margin-right: 1rem;
 	
 }
 .information{
@@ -132,3 +133,8 @@
 .mobile__information{
 	gap: 0.5rem;
 }
+
+.mobile__main__right__container{
+	margin: 0;
+}
+
